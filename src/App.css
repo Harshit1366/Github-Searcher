@@ -9,7 +9,7 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
+  height: 45px;
   padding: 20px;
   color: white;
 }
@@ -32,11 +32,11 @@ a {
 }
 
 #card {
-  width: 30%;
+  width: 40%;
   margin: auto;
   overflow: hidden;
   position: absolute;
-  top: 60%;
+  top: 55%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
